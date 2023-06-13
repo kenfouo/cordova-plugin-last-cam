@@ -3,6 +3,9 @@
 > Last Cam is a Cordova Plugin that brings to the table what other camera plugins lack: Video Capture capabilities 
 within a custom Camera view.
 
+### Contribution
+Your sponsorship will be of great use to us. PayPal Link: https://paypal.me/Borientmk?country.x=LS&locale.x=fr_XC
+
 ![LastCam](assets/last-cam-logo.png)
 
 # Cordova Plugin Last Cam
